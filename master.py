@@ -69,3 +69,10 @@ if __name__ == '__main__':
         print(f'The source of "{name2}" is "{file2.source}"')
         print(f'The year of "{name1}" is "{file1.year}"')
         print(f'The year of "{name2}" is "{file2.year}"')
+        print(f'The keywords of "{name1}" is:')
+        for keyword in file1.keywords:
+            print(keyword)
+        print(f'The keywords of "{name2}" is:')
+        for keyword in file2.keywords:
+            print(keyword)
+        
