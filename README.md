@@ -8,10 +8,10 @@
 
 类别|解释|文件名格式
 -|-|-
-<b>Resource<b>|厂商或其他来源的资料|[Resource] <i>source<i> - <r>keywords<r>
-<b>Book<b>|书籍|[Book] <i>publisher<i> - <r>keywords<r>
-<b>Research<b>|研究类文献|[Research] <i>year<i> - <i>journal<i> - <r>keywords<r>
-<b>Review<b>|综述类文献|[Review] <i>year<i> - <i>journal<i> - <r>keywords<r>
+</b>Resource</b>|厂商或其他来源的资料|[Resource] </i>source</i> - </r>keywords</r>
+</b>Book</b>|书籍|[Book] </i>publisher</i> - </r>keywords</r>
+</b>Research</b>|研究类文献|[Research] </i>year</i> - </i>journal</i> - </r>keywords</r>
+</b>Review</b>|综述类文献|[Review] </i>year</i> - </i>journal</i> - </r>keywords</r>
 
 ## 关键词
 
